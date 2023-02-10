@@ -1,6 +1,6 @@
 # Encrypting Kubernetes Secrets with Sealed Secrets
 
-### This Collection of sealed secrets will be used together with ArgoCD App of Apps pattern during cluster bootstrapping
+This Collection of sealed secrets will be used together with ArgoCD App of Apps pattern during cluster bootstrapping
 
 ---
 
