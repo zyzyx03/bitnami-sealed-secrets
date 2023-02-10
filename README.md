@@ -44,7 +44,7 @@ do not forget to also encode your secrets with base64 first.
 
 ## Sealing the secrets
 
-```bash
+```bash~
 cat mimir-bucket-secret.yaml | kubeseal --format yaml > mimir-bucket-secret-sealed.yaml
 ```
 
